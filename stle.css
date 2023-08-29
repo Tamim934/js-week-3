@@ -1,0 +1,25 @@
+/* .p{
+    color: green;
+}
+.add{
+    background-color: rgb(255, 0, 0);
+  width: 300px;
+  height: 400px;
+ 
+}
+.remove{
+    background-color: white;
+}
+.shavkat{
+    background-color: blue;
+    color: green;
+} */
+.sq{
+    width: 450px;
+    height: 700px;
+    border:  1px solid lightgray;
+    margin-left: 600px;
+}
+.img2{
+    display: block
+}
